@@ -11,3 +11,6 @@ A blogging Application developed in Java, Springboot, Hibernate, MySQl and JWT f
 
 ### Class Diagram
 ![Class-Diagram](https://github.com/user-attachments/assets/351665a0-d8e6-4e2f-848c-b8fe9bdce9f4)
+
+### API End Points
+![endpoints](https://github.com/user-attachments/assets/a441dac0-424d-4a73-9a1a-8cf760c02c4a)
